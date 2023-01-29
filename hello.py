@@ -1,2 +1,2 @@
-print('Hopla desde ubuntu')
-print('Prueba n1')
+print('Hola Bienvenidos a este programa')
+print('Prueba #1 ...')
